@@ -160,7 +160,6 @@ void contador_pulso1() {
 
   //Incrementa o contador
   contador1++;
-
 }
 
 
